@@ -4,6 +4,7 @@
 
 - O(1) -> Constant Time
 - O(n) -> Linear Time
+- O(n^2) -> Ouadratic Time
 
 ### Rule Book
 
