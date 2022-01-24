@@ -36,6 +36,11 @@
 
 - Array
 
+## Exercises
+
+- Reverse String
+- Merge Sorted Arrays
+
 ## Classes In JavaScript
 
 #### Reference Type
