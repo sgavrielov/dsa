@@ -40,6 +40,7 @@
 
 - Reverse String
 - Merge Sorted Arrays
+- First Recurring Character
 
 ## Classes In JavaScript
 
