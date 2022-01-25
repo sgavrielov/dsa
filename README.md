@@ -1,5 +1,7 @@
 # Data Structures & Algorithms
 
+> Note: **each folder has own readme file**
+
 ## Big-O Notation
 
 - O(1) -> Constant Time
@@ -38,6 +40,7 @@
 - Hash Table
 - Singly Linked List
 - Doubly Linked List
+- Stack
 
 ## Exercises
 
