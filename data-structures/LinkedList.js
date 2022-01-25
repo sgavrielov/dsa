@@ -85,6 +85,39 @@ class LinkedList {
     return current;
   }
 
+  remove(index) {
+    // TODO: check params
+
+    const leader = this.traverseToIndex(index - 1);
+    const unwanted = leader.next;
+
+    leader.next = unwanted.next;
+    this.length--;
+    return true;
+  }
+
+  // Exercise
+  reverse() {
+    if (!this.head.next || this.length === 1) return this.head;
+
+    let firstItem = this.head;
+    this.tail = this.head;
+    let secondItem = firstItem.next;
+
+    while (secondItem) {
+      let temp = secondItem.next;
+
+      secondItem.next = firstItem;
+      firstItem = secondItem;
+      secondItem = temp;
+    }
+
+    this.head.next = null;
+    this.head = firstItem;
+
+    return true;
+  }
+
   data() {
     const output = [];
     let current = this.head;
@@ -95,17 +128,6 @@ class LinkedList {
     }
 
     return output;
-  }
-
-  remove(index) {
-    // TODO: check params
-
-    const leader = this.traverseToIndex(index - 1);
-    const unwanted = leader.next;
-
-    leader.next = unwanted.next;
-    this.length--;
-    return true;
   }
 }
 
@@ -127,4 +149,10 @@ ll.insert(2, 99);
 // 1 -> 10 -> 99 -> 16
 ll.remove(3);
 
+// [ 1, 10, 99, 16 ]
+console.log(ll.data());
+
+ll.reverse();
+
+// [ 16, 99, 10, 1 ]
 console.log(ll.data());

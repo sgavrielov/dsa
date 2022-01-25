@@ -36,7 +36,8 @@
 
 - Array
 - Hash Table
-- Linked List
+- Singly Linked List
+- Doubly Linked List
 
 ## Exercises
 
