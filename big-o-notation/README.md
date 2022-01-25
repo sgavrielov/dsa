@@ -1,6 +1,6 @@
 # Big O Notation
 
-![Big O Complexity Chart](https://i2.wp.com/www.jessicayung.com/wp-content/uploads/2016/08/screenshot-5.png?resize=846%2C591&ssl=1)
+![Big O Complexity Chart](https://camo.githubusercontent.com/1f54eb7ec7299bd1f488c3f5667a82442e7acf9d6bf66decb0ed9e9432895e6d/68747470733a2f2f69322e77702e636f6d2f7777772e6a65737369636179756e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30382f73637265656e73686f742d352e706e673f726573697a653d3834362532433539312673736c3d31)
 
 ### Big O's
 
