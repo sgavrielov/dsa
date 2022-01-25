@@ -35,6 +35,8 @@
 ## Data Structures
 
 - Array
+- Hash Table
+- Linked List
 
 ## Exercises
 
