@@ -68,7 +68,7 @@ class MyArray {
     // Call the _shiftItems function to rearrange the indexes of the array
     // This function is private
     // do not call this function outside of the class
-    // This function automatically decrease the length of the array
+    // This function automatically decrease the length of this array
     console.log(this._shiftItems(index));
 
     // Return the deleted item
