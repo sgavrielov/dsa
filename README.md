@@ -14,4 +14,6 @@
 - [Singly Linked List](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/singly-linked-list)
 - [Doubly Linked List](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/doubly-linked-list)
 - [Stack](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/stack)
-  - With Singly Linked List
+  - [With Singly Linked List](https://github.com/saulgavrilov/data-structures-and-algorithms/blob/main/data-structures/stack/stack-sll/Stack.js)
+  - [With Array](https://github.com/saulgavrilov/data-structures-and-algorithms/blob/main/data-structures/stack/stack-array/Stack.js)
+- [Queue](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/queue)
