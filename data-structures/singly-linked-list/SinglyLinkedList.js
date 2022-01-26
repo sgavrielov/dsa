@@ -110,6 +110,27 @@ class SinglyLinkedList {
 
     return data;
   }
+
+  reverse() {
+    if (this.length === 1 || !this.head.next) return this.head;
+
+    let first = this.head;
+    this.tail = this.head;
+    let second = first.next;
+
+    while (second) {
+      const temp = second.next;
+
+      second.next = first;
+      first = second;
+      second = temp;
+    }
+
+    this.head.next = null;
+    this.head = first;
+
+    return this.data();
+  }
 }
 
 const sll = new SinglyLinkedList(10);
@@ -119,5 +140,7 @@ sll.append(16);
 sll.prepend(1);
 sll.insert(2, 99);
 sll.remove(1);
+
+sll.reverse();
 
 console.log(sll.data());

@@ -18,3 +18,10 @@ Example:
 const obj1 = { a: true };
 const obj2 = obj1; // reference to another object (obj1)
 ```
+
+| Pros           | Cons        |
+| :------------- | :---------- |
+| Fast Insertion | Slow Lookup |
+| Fast Deletion  | More Memory |
+| Ordered        |             |
+| Flexible Size  |             |
