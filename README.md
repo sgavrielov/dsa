@@ -12,3 +12,4 @@
 - [Array](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/array)
 - [Hash Table](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/hash-table)
 - [Singly Linked List](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/singly-linked-list)
+- [Doubly Linked List](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/doubly-linked-list)
