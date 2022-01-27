@@ -9,3 +9,4 @@
 - Stack
 - Queue
 - Tree
+  - Binary Search Tree
