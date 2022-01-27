@@ -18,3 +18,4 @@
   - [With Array](https://github.com/saulgavrilov/data-structures-and-algorithms/blob/main/data-structures/stack/stack-array/Stack.js)
 - [Queue](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/queue)
 - [Tree](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/tree)
+  - [Binary Search Tree](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/tree/binary-search-tree)
