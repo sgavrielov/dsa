@@ -29,3 +29,4 @@
 ### [Sorting](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/sorting)
 
 - [Bubble Sort](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/sorting/bubble.js)
+- [Selection Sort](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/sorting/selection.js)
