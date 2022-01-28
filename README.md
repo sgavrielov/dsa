@@ -20,3 +20,7 @@
 - [Tree](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/tree)
   - [Binary Search Tree](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/tree/binary-search-tree)
 - [Graph](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/graph)
+
+### [Recursion](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/recursion)
+
+- [Factorial]()
