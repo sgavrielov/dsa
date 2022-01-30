@@ -36,6 +36,12 @@ Example
 // BFS[9, 4, 1, 6, 20, 15, 170]
 ```
 
+When it comes to DFS we have to be aware that there's three ways we can implement it.
+
+- inOrder - `[1, 4, 6, 9, 15, 20, 170]`
+- preOrder - `[9, 4, 1, 6, 20, 15, 170]`
+- postOrder - `[1, 6, 4, 15, 170, 20, 9]`
+
 | Pros             | Cons         |
 | :--------------- | :----------- |
 | Less Memory      | Can Get Slow |
