@@ -33,3 +33,5 @@
 - [Insertion Sort](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/sorting/insertion.js)
 - [Merge Sort](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/sorting/merge.js)
 - [Quick Sort](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/sorting/quick.js)
+
+### [Searching](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/searching)
