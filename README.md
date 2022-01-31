@@ -40,3 +40,7 @@
 - [Binary Search](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/searching)
 - [Breadth First Search (BFS)/Traversal](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/searching/BFS_DFS.js)
 - [Depth First Search (BFS)/Traversal](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/searching/BFS_DFS.js)
+
+### [Dynamic Programming](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/dynamic-programming)
+
+- [Fibonacci](https://github.com/saulgavrilov/data-structures-and-algorithms/blob/main/dynamic-programming/fibonacci.js)
