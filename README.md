@@ -44,3 +44,5 @@
 ### [Dynamic Programming](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/dynamic-programming)
 
 - [Fibonacci](https://github.com/saulgavrilov/data-structures-and-algorithms/blob/main/dynamic-programming/fibonacci.js)
+
+### [Challenges](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/challenges)
