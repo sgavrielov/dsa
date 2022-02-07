@@ -44,3 +44,7 @@
 ### [Dynamic Programming](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/dynamic-programming)
 
 - [Fibonacci](https://github.com/saulgavrilov/data-structures-and-algorithms/blob/main/dynamic-programming/fibonacci.js)
+
+### [More](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/more)
+
+- [Fisher–Yates shuffle](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/more/fisherYatesShuffle.js)
