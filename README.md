@@ -11,8 +11,9 @@
 
 - [Array](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/array)
 - [Hash Table](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/hash-table)
-- [Singly Linked List](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/singly-linked-list)
-- [Doubly Linked List](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/doubly-linked-list)
+- Linked List
+  - [Singly Linked List](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/singly-linked-list)
+  - [Doubly Linked List](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/doubly-linked-list)
 - [Stack](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/stack)
   - [With Singly Linked List](https://github.com/saulgavrilov/data-structures-and-algorithms/blob/main/data-structures/stack/stack-sll/Stack.js)
   - [With Array](https://github.com/saulgavrilov/data-structures-and-algorithms/blob/main/data-structures/stack/stack-array/Stack.js)
