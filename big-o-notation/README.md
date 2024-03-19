@@ -2,7 +2,7 @@
 
 ### Big O's
 
-|             |                  |                                                                                            |
+| Notation    | Name             | Description                                                                                |
 | :---------- | :--------------- | :----------------------------------------------------------------------------------------- |
 | O(1)        | Constant Time    | no loops                                                                                   |
 | O(log n)    | Logarithmic Time | usually searching algorithms have log n if they are sorted (Binary Search)                 |
@@ -38,19 +38,19 @@
 
 > Note: + for steps in order. \* for nested steps
 
-### What is good code ?
+<!-- ### What is good code ?
 
 1. Readable - That others can be able to understand your code
-2. Scalable - Big O allows us to measure if our code can be scalable
+2. Scalable - Big O allows us to measure if our code can be scalable -->
 
 ### How to measure time complexity & space complexity
 
 ```javascript
-const names = ['Saul', 'Dan', 'Jhon', 'Jane', 'William', 'Sara'];
+const names = ["Saul", "Dan", "Jhon", "Jane", "William", "Sara"];
 
 function findName(array) {
   for (let i = 0; i < array.length; i++) {
-    if (array[i] === 'William') return true;
+    if (array[i] === "William") return true;
   }
   return false;
 }
@@ -67,3 +67,5 @@ console.log(findName(names));
     - let i = 0;
 */
 ```
+
+[wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
