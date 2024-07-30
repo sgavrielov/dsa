@@ -7,7 +7,7 @@
 | delete |            O(1) |
 | search |            O(1) |
 
-### Hash Tables vs Arrays
+## Hash Tables vs Arrays
 
 | Arrays |                 | Hash Tables |                 |
 | ------ | --------------: | ----------- | --------------: |

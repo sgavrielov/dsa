@@ -8,7 +8,7 @@ Anatomy Of Recursion:
 let counter = 0;
 function inception() {
   console.log(counter);
-  if (counter > 3) return 'done!';
+  if (counter > 3) return "done!";
   counter++;
   return inception();
 }
@@ -16,24 +16,24 @@ function inception() {
 inception(); // 01234 -> done!
 ```
 
-### Rules
+## Rules
 
 - Identify the base case.
 - Identify the recursive case.
 - Get closer and closer and return when needed. Usually you have 2 returns.
 
-### When to use recursion
+## When to use recursion
 
 - When it gets to complicated problems like traversing or searching through trees or graphs.
 - When we are sorting through items, there's also cases that recursion can be preferred.
 
-### Every time you are using a tree or converting Something into a tree, consider recursion.
+## Every time you are using a tree or converting Something into a tree, consider recursion
 
 1. Divided into a number of subproblems that are smaller instances of the same problem.
 2. Each instance of the subproblem is identical in nature.
 3. The solutions of each subproblem can be combined to solve the problem at hand.
 
-**Divide and Conquer using Recursion**
+Divide and Conquer using Recursion
 
 | Pros                        | Cons        |
 | :-------------------------- | :---------- |

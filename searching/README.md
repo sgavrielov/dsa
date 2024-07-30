@@ -7,7 +7,7 @@
 
 > The time complexity of BFS and DFS is O(n)
 
-### Breadth First Search (BFS)
+## Breadth First Search (BFS)
 
 Example
 
@@ -24,7 +24,7 @@ Example
 | Shortest Path | More Memory |
 | Closer Nodes  |             |
 
-### Depth First Search (DFS)
+## Depth First Search (DFS)
 
 Example
 

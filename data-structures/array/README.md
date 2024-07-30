@@ -8,11 +8,11 @@
 | insert |            O(n) |
 | delete |            O(n) |
 
-### Static Array
+## Static Array
 
 - static arrays is that they're fixed in size, meaning you need to specify the number of elements your array will hold.
 
-### Dynamic Array
+## Dynamic Array
 
 - can be O(n)
 - dynamic array allow us to copy & rebuild an array at new location, witch with more memory, if we wanted more memory.

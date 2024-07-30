@@ -8,7 +8,7 @@
 | insert  |            O(n) |
 | delete  |            O(n) |
 
-### What is a pointer ?
+## What is a pointer ?
 
 A pointer is simply a reference to another place in memory or another object or another node.
 

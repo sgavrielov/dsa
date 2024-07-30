@@ -1,11 +1,11 @@
 # Data Structures - Graph
 
-### Types of Graphs
+## Types of Graphs
 
 - Directed
 - Undirected
 
-### Weighted Graph
+## Weighted Graph
 
 Unweighted:
 

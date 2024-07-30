@@ -1,6 +1,6 @@
 # Big O Notation
 
-### Big O's
+## Big O's
 
 | Notation    | Name             | Description                                                                                |
 | :---------- | :--------------- | :----------------------------------------------------------------------------------------- |
@@ -14,21 +14,21 @@
 
 > Note: **Iterating through half a collection is still O(n)**. **Two separate collections: O(a \* b)**
 
-### What Can Cause Time in a Function:
+## What Can Cause Time in a Function
 
 - Operations (+,-, \*, /)
 - Comparisons (<, >, ===)
 - Looping (for, while)
 - Outside Function call (function())
 
-### What Causes Space Complexity:
+## What Causes Space Complexity
 
 - Variables
 - Data Structures
 - Function Call
 - Allocations
 
-### Rule Book
+## Rule Book
 
 1. Always worst Case
 2. Remove Constants
