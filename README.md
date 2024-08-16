@@ -29,7 +29,9 @@
 
 ## [Sorting](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/sorting)
 
-- [Bubble Sort](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/sorting/bubble.js)
+- Bubble Sort
+  - [JavaScript](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/sorting/bubble.js)
+  - [C++](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/sorting/1_bubble.cpp)
 - [Selection Sort](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/sorting/selection.js)
 - [Insertion Sort](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/sorting/insertion.js)
 - [Merge Sort](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/sorting/merge.js)
