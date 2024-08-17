@@ -39,8 +39,12 @@
 
 ## [Searching](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/searching)
 
-- [Linear Search](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/searching/linear.js)
-- [Binary Search](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/searching)
+- Linear Search
+  - [JavaScript](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/searching/linear.js)
+  - [C++](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/searching/linear.cpp)
+- Binary Search
+  - [JavaScript](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/searching/binarySearch.js)
+  - [C++](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/searching/binarySearch.cpp)
 - [Breadth First Search (BFS)/Traversal](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/searching/BFS_DFS.js)
 - [Depth First Search (BFS)/Traversal](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/searching/BFS_DFS.js)
 
