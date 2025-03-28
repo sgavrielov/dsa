@@ -2,12 +2,11 @@
 
 > Note: **each folder has own readme file**
 
-## [Big O Notation](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/big-o-notation)
+## [Big O Notation](./big-o-notation/)
 
-- [examples](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/big-o-notation/examples)
-- [exercises](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/big-o-notation/exercises)
+- [TypeScript](./big-o-notation/bigONotation.ts)
 
-## [Data Structures](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures)
+## [Data Structures](./data-structures/)
 
 - [Array](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/array)
 - [Hash Table](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/hash-table)
@@ -22,11 +21,11 @@
   - [Binary Search Tree](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/tree/binary-search-tree)
 - [Graph](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/graph)
 
-## [Recursion](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/recursion)
+## [Recursion](./recursion/)
 
 - [TypeScript](./recursion/recursion.ts)
 
-## [Sorting](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/sorting)
+## [Sorting](./sorting/)
 
 - Bubble Sort
   - [JavaScript](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/sorting/bubble.js)
@@ -36,7 +35,7 @@
 - [Merge Sort](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/sorting/merge.js)
 - [Quick Sort](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/sorting/quick.js)
 
-## [Searching](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/searching)
+## [Searching](./searching/)
 
 - Linear Search
   - [JavaScript](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/searching/linear.js)
@@ -47,10 +46,10 @@
 - [Breadth First Search (BFS)/Traversal](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/searching/BFS_DFS.js)
 - [Depth First Search (BFS)/Traversal](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/searching/BFS_DFS.js)
 
-## [Dynamic Programming](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/dynamic-programming)
+## [Dynamic Programming](./dynamic-programming/)
 
 - [Fibonacci](https://github.com/saulgavrilov/data-structures-and-algorithms/blob/main/dynamic-programming/fibonacci.js)
 
-## [More](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/more)
+## [More](./more/)
 
-- [Fisher–Yates shuffle](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/more/fisherYatesShuffle.js)
+- [Fisher–Yates shuffle](./more/fisherYatesShuffle.js)

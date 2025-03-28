@@ -46,7 +46,7 @@
 ### How to measure time complexity & space complexity
 
 ```javascript
-const names = ["Saul", "Dan", "Jhon", "Jane", "William", "Sara"];
+const names = ["Dan", "John", "Jane", "William", "Sara"];
 
 function findName(array) {
   for (let i = 0; i < array.length; i++) {
