@@ -24,8 +24,7 @@
 
 ## [Recursion](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/recursion)
 
-- [Factorial](https://github.com/saulgavrilov/data-structures-and-algorithms/blob/main/recursion/factorial.js)
-- [Fibonacci](https://github.com/saulgavrilov/data-structures-and-algorithms/blob/main/recursion/fibonacci.js)
+- [TypeScript](./recursion/recursion.ts)
 
 ## [Sorting](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/sorting)
 
