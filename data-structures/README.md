@@ -2,12 +2,6 @@
 
 > Note **each data structure has own readme file**
 
-- [Array](./array)
-  - [README](./array/README.md)
-  - [Array.js](./array/Array.js)
-- [Hash Table](./hash-table/)
-  - [README](./hash-table/README.md)
-  - [HashTable.js](./hash-table/HashTable.js)
 - [Singly Linked List](./singly-linked-list/)
   - [README](./singly-linked-list/README.md)
   - [SinglyLinkedList.js](./singly-linked-list/SinglyLinkedList.js)

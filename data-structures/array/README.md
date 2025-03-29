@@ -1,5 +1,8 @@
 # Data Structures - Array
 
+[Wikipedia](<https://en.wikipedia.org/wiki/Array_(data_structure)>) |
+[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+
 | Method | Time Complexity |
 | :----- | --------------: |
 | lookup |            O(1) |
@@ -24,5 +27,3 @@
 | Fast lookup   | Slow insert                           |
 | Fast push/pop | Slow deletes                          |
 | Ordered       | Fixed sizes\* (if using static array) |
-
-[Wikipedia](<https://en.wikipedia.org/wiki/Array_(data_structure)>)
