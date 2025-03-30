@@ -2,12 +2,9 @@
 
 > Note **each data structure has own readme file**
 
-- [Singly Linked List](./singly-linked-list/)
-  - [README](./singly-linked-list/README.md)
-  - [SinglyLinkedList.js](./singly-linked-list/SinglyLinkedList.js)
-- [Doubly Linked List](./doubly-linked-list/)
-  - [README](./doubly-linked-list/README.md)
-  - [DoublyLinkedList.js](./doubly-linked-list/DoublyLinkedList.js)
+- Linked List
+  - [Singly (JavaScript)](./linked-list/SinglyLinkedList.js)
+  - [Doubly (JavaScript)](./linked-list/DoublyLinkedList.js)
 - [Stack](./stack/)
   - [README](./stack/README.md)
   - [Stack Array](./stack/stack-array)
