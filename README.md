@@ -10,9 +10,9 @@
 
 - Array - [Wikipedia][ds_array_wiki] | [MDN][ds_array_mdn]
 - Hash Table - [MDN][ds_hash_table_mdn]
-- Linked List
-  - [Singly Linked List](./data-structures/singly-linked-list)
-  - [Doubly Linked List](./data-structures/doubly-linked-list)
+- Linked List - [Wikipedia][ds_linked_list_wiki]
+  - [Singly Example (JavaScript)][ds_linked_list_singly]
+  - [Doubly Example (JavaScript)][ds_linked_list_doubly]
 - [Stack](https://github.com/saulgavrilov/data-structures-and-algorithms/tree/main/data-structures/stack)
   - [With Singly Linked List](https://github.com/saulgavrilov/data-structures-and-algorithms/blob/main/data-structures/stack/stack-sll/Stack.js)
   - [With Array](https://github.com/saulgavrilov/data-structures-and-algorithms/blob/main/data-structures/stack/stack-array/Stack.js)
@@ -59,3 +59,6 @@
 [ds_array_wiki]: https://en.wikipedia.org/wiki/Array_(data_structure)
 [ds_array_mdn]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 [ds_hash_table_mdn]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map
+[ds_linked_list_wiki]: https://en.wikipedia.org/wiki/Linked_list
+[ds_linked_list_singly]: ./data-structures/linked-list/SinglyLinkedList.js
+[ds_linked_list_doubly]: ./data-structures/linked-list/DoublyLinkedList.js
