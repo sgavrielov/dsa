@@ -68,4 +68,4 @@ console.log(findName(names));
 */
 ```
 
-[wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
+[Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)

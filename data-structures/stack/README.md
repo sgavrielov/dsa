@@ -2,8 +2,8 @@
 
 > LIFO - Last In First Out
 
-- [With Singly Linked List](https://github.com/saulgavrilov/data-structures-and-algorithms/blob/main/data-structures/stack/stack-sll/Stack.js)
-- [With Array](https://github.com/saulgavrilov/data-structures-and-algorithms/blob/main/data-structures/stack/stack-array/Stack.js)
+- [With Singly Linked List](./stack-sll-js/Stack.js)
+- [With Array](./stack-array-js/Stack.js)
 
 | Method | Time Complexity |
 | :----- | --------------: |
